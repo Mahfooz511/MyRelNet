@@ -1,0 +1,174 @@
+Features to Add
+---------------------------------
+1. Get the highest in once  bloodline
+2. Print full Graph (all edges)
+3. Show all edges in the path of finding relation
+4. FB integration
+
+Pages
+--------------------------------
+1. Welcome Page/Login Page         		=> WelcomeController -> login
+2. Sign up Pages 						=> WelcomeController -> sign up
+3. Add Person 							=> PersonController  -> Add, Show, Edit, Delete, Update 
+4. Show Person / Edit > Delete / Update => PersonController  -> Show, Edit, Delete, Update 
+4. Show Graph 							=> GraphController -> Show Default
+5. Find relation between two Persons 	=> GraphController -> Show with relationship
+
+Menu Items
+--------------------------------
+1. New Family
+1. Add Person 
+
+2. Get Person Info / Edit
+2. Find Relation between
+3. Logout
+
+Db
+--------------------------------
+Persons
+1. Name      	64 Char - NULL
+2. Nick Name	64 Char - NULL
+3. Location		128 Char - NULL
+4. Sex			2 Char - NO NULL
+5. Age			3 Int - NULL
+6. Sibling NO 	2 Int - NULL
+7. Photo		
+8. Facebook ID
+9. Google+ ID
+10. email ID	128 Char - NULL
+11. ID	Int - NO NULL  (automatic increment)
+12. User ID (login)	32 Char - NO NULL
+13. Family ID	Int - NO NULL
+14. Generation 	Int - NO NULL
+15. Date Of Addition Date - NO NULL
+16. Notes   -   512 Char NULL
+17. DeadorAlive 
+
+Relations
+1. User ID  
+2. Family ID
+3. Person ID
+4. Relation 	128 Char - NO NULL
+5. Relative		(Person ID)
+
+Families
+1. ID
+2. Name
+3. user ID
+
+Users
+1. ID
+2. Username
+3. password
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Family - Add, Delete, Rename, ShowGraph, FindRelationsBetween,
+		 Merge Families, Split Families, Share Family, Change Family access
+Family->Person - Add, Delete, Update,
+Find - Person (o/p in list and in graph), Find siblings, all from previpus generation, all from next generation, All in a city, Famlily on maps, Eligible bachelors 
+Graph - ChnageShape, ChangeRoot, ChnageColors,
+Misc - Change Language, Send Invites, Print, Export in PDF, Mail, Share on FB, Mail
+
+UserPreferrences : Userid, Language, Preferred Family, 
+FamilyAccess : FamilyID, userID, AccessType(owner,edit,view), root person, yourself 
+
+Owner: give permissions, Take away permissions, can change, can delete 
+Edit: give permissions, Take away permissions(except of owner),can change, can delete, if owner deletes then deleted from account , if deleted then does not show up in his account
+View: can view only
+
+Permissions:
+-=>All People with Edit access can change permissions of all except of Owner
+-=>View can not change or give access permission
+-=>Owner can change/remove all permissions
+
+
+Fields to be added in PERSON Table:
+-Age as on 
+-City
+-State
+-Country
+------------------------------------------------------
+Home (family List) ===> Owner, Edit, View
+Family Edit->Rename ===> Owner, Edit
+Family Edit->Delete ===> Owner, (Edit, View) - Delete from his Panel
+Join Families ===> Owner, If has Edit Permission, then on new family will have Edit Permission, permissions of both family will be joined
+Split Family ===> Owner 
+
+Members->Add,Edit,Delete   ===> Owner, Edit
+Find->* ===> ALL
+Find all in->* ===> ALL
+Show Family->* ===> ALL
+Share->Share Family ===> Owner, Edit
+Share->Change Access Rights ===> Owner, Edit (except of Owner)
+Set Root-> ALL
+
+++++++
+
+---------------------------------------------------------
+
+TO SHARE:
+Sharer =>
+ 1. Share a Family by giving View or Edit Right
+ 	a.) Share with Multiple People at once 
+ 			Generate a Link with validity of week or a month 
+ 	b.) Share with a Single Person
+ 			Generate a With no time limit but can be used only once
+
+ 	*** User can send by email or copy paste link in chat etc
+
+ 2. When user gets a link, 
+ 	1.) he/she can click on it
+ 	2.) user will be prompted to login or create account
+ 	3.) if user is already logged-in, or has created an account, he/she can see shared Family in the Family Panel
+
+-----------------------------------------------------------
+
+9. Load Picture   --- DONE (to make more secure)
+
+--------------------------------------
+
+------------
+Fetures/Bug to work on later.
+1. User should be able to add one person in two relations.
+	(scene - cousins are married, then person should appear as base relative to 2 places)
+2. Set Filter in Toolbox
+3. Change background
+4. Make family graph available publically available(without login)
+
+
+-----------------
+issue to fix :
+3. Layout add - click and expand
+4. Show Grid line in background of Graph
+6. Change Background
+7. Draupadi situation
+8. set autofocus and select all on forms fields so that user could start typing immediately
+
+fix - Right Now to work on -
+3. facebook/gmail login
+
+
+----------
+
+Family family/79  to debug
+
+Things to do . 
+6. Notifications
+7. Errors and Warnings, Alerts in Forms
+9. share validity check if working
+
+
+--------------------------
+
+pwd
+/Applications/MAMP/Library/bin
+/Applications/MAMP/Library/bin$ ./mysqldump -d -u relnet -p relnet -h localhost  > relnetdump.txt
+
+
+
+
+
+
+
+
+

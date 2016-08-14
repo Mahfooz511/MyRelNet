@@ -1,0 +1,544 @@
+Maan,Dada,Dadi
+Maan,Dadi,Dadi
+Maan,Nana,Nani
+Maan,Nani,Nani
+Maan,Taai,Nani
+Maan,Chachi,Nani
+Maan,Fufa,Dadi
+Maan,Mami,Nani
+Maan,Mausa,Dadi
+Maan,Saas,Saas
+Maan,Sasur,Saas
+Maan,Jethani,Chachi
+Maan,Devrani,Chachi
+Maan,Nandoi,Chachi
+Maan,Saadu Bhai,Chachi
+Maan,Bhabhi,Chachi
+Maan,Bhabhi(Bahu),Chachi
+Maan,Jijaji,Chachi
+Maan,Samadhi,Chachi
+Maan,Samdhan,Chachi
+Maan,Bahu,Samdhan
+Maan,Damad,Samdhan
+Pita,Dada,Dada
+Pita,Dadi,Dada
+Pita,Nana,Nana
+Pita,Nani,Nana
+Pita,Taai,Chacha
+Pita,Chachi,Chacha
+Pita,Fufa,Chacha
+Pita,Mami,Nana
+Pita,Mausa,Dada
+Pita,Saas,Sasur
+Pita,Sasur,Sasur
+Pita,Akkad Saas,Sasur
+Pita,Jethani,Chacha
+Pita,Devrani,Chacha
+Pita,Nandoi,Chacha
+Pita,Saadu Bhai,Chacha
+Pita,Bhabhi,Chacha
+Pita,Bhabhi(Bahu),Chacha
+Pita,Jijaji,Chacha
+Pita,Samadhi,Chacha
+Pita,Samdhan,Chacha
+Pita,Bahu,Samadhi
+Pita,Damad,Samadhi
+Behan,Dada,Dadi
+Behan,Dadi,Dadi
+Behan,Nana,Nani
+Behan,Nani,Nani
+Behan,Taai,Chachi
+Behan,Chachi,Chachi
+Behan,Fufa,Bua
+Behan,Mami,Mami
+Behan,Mausa,Bua
+Behan,Saas,Saas
+Behan,Sasur,Saas
+Behan,Jethani,Behan
+Behan,Devrani,Behan
+Behan,Nandoi,Bhai
+Behan,Saadu Bhai,Behan
+Behan,Bhabhi,Behan
+Behan,Bhabhi(Bahu),Behan
+Behan,Jijaji,Behan
+Behan,Samadhi,Samdhan
+Behan,Samdhan,Samdhan
+Behan,Bahu,Bhatiji
+Behan,Damad,Bhanji
+Bhai,Dada,Dada
+Bhai,Dadi,Dada
+Bhai,Nana,Nana
+Bhai,Nani,Nana
+Bhai,Taai,Mama
+Bhai,Chachi,Mama
+Bhai,Fufa,Fufa
+Bhai,Mama,Mama
+Bhai,Mami,Mama
+Bhai,Mausa,Mausa
+Bhai,Saas,Sasur
+Bhai,Sasur,Sasur
+Bhai,Jethani,Bhai
+Bhai,Devrani,Bhai
+Bhai,Nandoi,Bhai
+Bhai,Saadu Bhai,Bhai
+Bhai,Jijaji,Bhai
+Bhai,Samadhi,Samadhi
+Bhai,Samdhan,Samdhan
+Bhai,Bahu,Bhatija
+Bhai,Damad,Bhanja
+Beta,Taau,Bhai
+Beta,Chacha,Bhai
+Beta,Bua,Bhai
+Beta,Mama,Bhai
+Beta,Mausi,Bhai
+Beta,Nati,Nati
+Beta,Natin,Nati
+Beta,Pota,Pota
+Beta,Poti,Pota
+Beta,Bhanja,Nati
+Beta,Bhanji,Nati
+Beta,Bhatija,Pota
+Beta,Bhatija,Pota
+Beta,Bhatiji,Pota
+Beta,Bhatiji,Pota
+Beta,Chachera Bhai,Bhatija
+Beta,Fufera Bhai,Bhatija
+Beta,Chacheri Behan,Bhanja
+Beta,Fuferi Behan,Bhanja
+Beta,Mamera Bhai,Bhatija
+Beta,Mosera Bhai,Bhatija
+Beta,Mameri Behan,Bhanja
+Beta,Moseri Behan,Bhanja
+Beta,Akkad Saas,Bhanja
+Beta,Saali,Bhanja
+Beta,Saala,Bhanja
+Beta,Jeth,Bhatija
+Beta,Devar,Bhatija
+Beta,Nand,Bhanja
+Beti,Taau,Behan
+Beti,Chacha,Behan
+Beti,Bua,Behan
+Beti,Mama,Behan
+Beti,Mausi,Behan
+Beti,Nati,Natin
+Beti,Natin,Natin
+Beti,Pota,Poti
+Beti,Poti,Poti
+Beti,Bhanja,Natin
+Beti,Bhanji,Natin
+Beti,Bhatija,Poti
+Beti,Bhatija,Poti
+Beti,Bhatiji,Poti
+Beti,Bhatiji,Poti
+Beti,Chachera Bhai,Bhatiji
+Beti,Fufera Bhai,Bhatiji
+Beti,Chacheri Behan,Bhanji
+Beti,Fuferi Behan,Bhanji
+Beti,Mamera Bhai,Bhatiji
+Beti,Mosera Bhai,Bhatiji
+Beti,Mameri Behan,Bhanji
+Beti,Moseri Behan,Bhanji
+Beti,Akkad Saas,Bhanji
+Beti,Saali,Bhanji
+Beti,Saala,Bhanji
+Beti,Jeth,Bhatiji
+Beti,Devar,Bhatiji
+Beti,Nand,Bhanji
+Patni,Taau,Taai
+Patni,Chacha,Chachi
+Patni,Mama,Mami
+Patni,Nati,Bahu
+Patni,Pota,Bahu
+Patni,Bhanja,Bahu
+Patni,Bhatija,Bahu
+Patni,Bhatija,Bahu
+Patni,Chachera Bhai,Bhabhi
+Patni,Fufera Bhai,Babhi
+Patni,Mamera Bhai,Bhabhi
+Patni,Mosera Bhai,Bhabhi
+Patni,Saala,Bhabhi
+Patni,Jeth,Jethani
+Patni,Devar,Devrani
+Pati,Bua,Fufa
+Pati,Mausi,Mausa
+Pati,Natin,Damad
+Pati,Poti,Damad
+Pati,Bhanja,Sasur
+Pati,Bhanji,Damad
+Pati,Bhatiji,Damad
+Pati,Bhatiji,Damad
+Pati,Chacheri Behan,Jijaji
+Pati,Fuferi Behan,Jijaji
+Pati,Mameri Behan,Jijaji
+Pati,Moseri Behan,Jijaji
+Pati,Akkad Saas,Saadu Bhai
+Pati,Saali,Saadu Bhai
+Pati,Nand,Nandoi
+Dada,Maan,Nana
+Dadi,Maan,Nani
+Nana,Maan,Nana
+Nani,Maan,Nani
+Taau,Maan,Nana
+Chacha,Maan,Nana
+Taai,Maan,Nani
+Chachi,Maan,Nani
+Bua,Maan,Nani
+Fufa,Maan,Nana
+Mama,Maan,Nana
+Mami,Maan,Nani
+Mausi,Maan,Nani
+Mausa,Maan,Nana
+Bhanja,Maan,Bhai
+Bhanji,Maan,Behan
+Bhatija,Maan,Bhai
+Bhatiji,Maan,Behan
+Chachera Bhai,Maan,Mama
+Fufera Bhai,Maan,Mama
+Chacheri Behan,Maan,Mausi
+Fuferi Behan,Maan,Mausi
+Mamera Bhai,Maan,Mama
+Mosera Bhai,Maan,Mama
+Mameri Behan,Maan,Mausi
+Moseri Behan,Maan,Mausi
+Saas,Maan,Dadi
+Sasur,Maan,Dada
+Jeth,Maan,Taau
+Devar,Maan,Chacha
+Jethani,Maan,Taai
+Devrani,Maan,Chachi
+Nand,Maan,Bua
+Nandoi,Maan,Fufa
+Bhabhi,Maan,Mami
+Bhabhi(Bahu),Maan,Mami
+Jijaji,Maan,Mausa
+Samadhi,Maan,Chacha
+Samdhan,Maan,Chachi
+Bahu,Maan,Bhabhi
+Damad,Maan,Jijaji
+Dada,Pita,Dada
+Dadi,Pita,Dadi
+Nana,Pita,Dada
+Nani,Pita,Dadi
+Taau,Pita,Dada
+Chacha,Pita,Dada
+Taai,Pita,Dadi
+Chachi,Pita,Dadi
+Bua,Pita,Dadi
+Fufa,Pita,Dada
+Mama,Pita,Dada
+Mami,Pita,Dadi
+Mausi,Pita,Dadi
+Mausa,Pita,Dada
+Nati,Pita,Bhanja
+Natin,Pita,Bhanji
+Pota,Pita,Bhatija
+Poti,Pita,Bhatiji
+Bhanja,Pita,Bhai
+Bhanji,Pita,Behan
+Bhatija,Pita,Bhai
+Bhatiji,Pita,Behan
+Chachera Bhai,Pita,Chacha
+Fufera Bhai,Pita,Chacha
+Chacheri Behan,Pita,Bua
+Fuferi Behan,Pita,Bua
+Mamera Bhai,Pita,Chacha
+Mosera Bhai,Pita,Chacha
+Mameri Behan,Pita,Bua
+Moseri Behan,Pita,Bua
+Saas,Pita,Nani
+Sasur,Pita,Nana
+Akkad Saas,Pita,Mausi
+Saali,Pita,Mausi
+Saala,Pita,Mama
+Saadu Bhai,Pita,Mausa
+Bhabhi,Pita,Chachi
+Bhabhi(Bahu),Pita,Chachi
+Jijaji,Pita,Fufa
+Samadhi,Pita,Sasur
+Samdhan,Pita,Saas
+Bahu,Pita,Bhabhi
+Damad,Pita,Jijaji
+Dada,Behan,Dada
+Dadi,Behan,Dadi
+Nana,Behan,Nana
+Nani,Behan,Nani
+Taau,Behan,Taau
+Chacha,Behan,Chacha
+Taai,Behan,Taai
+Chachi,Behan,Chachi
+Bua,Behan,Bua
+Fufa,Behan,Fufa
+Mama,Behan,Mama
+Mami,Behan,Mami
+Mausi,Behan,Mausi
+Mausa,Behan,Mausa
+Nati,Behan,Nati
+Natin,Behan,Natin
+Pota,Behan,Pota
+Poti,Behan,Poti
+Bhanja,Behan,Bhanja
+Bhanji,Behan,Bhanji
+Bhatija,Behan,Bhatija
+Bhatiji,Behan,Bhatiji
+Chachera Bhai,Behan,Bhai
+Fufera Bhai,Behan,Bhai
+Chacheri Behan,Behan,Behan
+Fuferi Behan,Behan,Behan
+Mamera Bhai,Behan,Bhai
+Mosera Bhai,Behan,Bhai
+Mameri Behan,Behan,Behan
+Moseri Behan,Behan,Behan
+Saas,Behan,Chachi
+Sasur,Behan,Chacha
+Jeth,Behan,Bhai
+Devar,Behan,Bhai
+Jethani,Behan,Behan
+Devrani,Behan,Behan
+Nand,Behan,Behan
+Nandoi,Behan,Jijaji
+Bhabhi,Behan,Bhabhi
+Bhabhi(Bahu),Behan,Bhabhi
+Jijaji,Behan,Jijaji
+Samadhi,Behan,Samadhi
+Samdhan,Behan,Samdhan
+Bahu,Behan,Bahu
+Damad,Behan,Damad
+Dada,Bhai,Dada
+Dadi,Bhai,Dadi
+Nana,Bhai,Nana
+Nani,Bhai,Nani
+Taau,Bhai,Taau
+Chacha,Bhai,Chacha
+Taai,Bhai,Taai
+Chachi,Bhai,Chachi
+Bua,Bhai,Bua
+Fufa,Bhai,Fufa
+Mama,Bhai,Mama
+Mami,Bhai,Mami
+Mausi,Bhai,Mausi
+Mausa,Bhai,Mausa
+Nati,Bhai,Nati
+Natin,Bhai,Natin
+Pota,Bhai,Pota
+Poti,Bhai,Poti
+Bhanja,Bhai,Bhanja
+Bhanji,Bhai,Bhanji
+Bhatija,Bhai,Bhatija
+Bhatiji,Bhai,Bhatiji
+Chachera Bhai,Bhai,Bhai
+Fufera Bhai,Bhai,Bhai
+Chacheri Behan,Bhai,Behan
+Fuferi Behan,Bhai,Behan
+Mamera Bhai,Bhai,Bhai
+Mosera Bhai,Bhai,Bhai
+Mameri Behan,Bhai,Behan
+Moseri Behan,Bhai,Behan
+Saas,Bhai,Chachi
+Sasur,Bhai,Chacha
+Akkad Saas,Bhai,Behan
+Saali,Bhai,Behan
+Saala,Bhai,Bhai
+Saadu Bhai,Bhai,Bhai
+Bhabhi,Bhai,Bhabhi
+Bhabhi(Bahu),Bhai,Bhabhi
+Jijaji,Bhai,Jijaji
+Samadhi,Bhai,Samadhi
+Samdhan,Bhai,Samdhan
+Bahu,Bhai,Bahu
+Damad,Bhai,Damad
+Dada,Beta,Chacha
+Dadi,Beta,Chachi
+Nana,Beta,Chacha
+Nani,Beta,Chachi
+Taau,Beta,Bhai
+Chacha,Beta,Bhai
+Taai,Beta,Bhabhi
+Chachi,Beta,Bhabhi
+Bua,Beta,Behan
+Fufa,Beta,Jijaji
+Mama,Beta,Saala
+Mami,Beta,Bhabhi
+Mausi,Beta,Saali
+Mausa,Beta,Bhai
+Nati,Beta,Nati
+Natin,Beta,Natin
+Pota,Beta,Pota
+Poti,Beta,Poti
+Bhanja,Beta,Nati
+Bhanji,Beta,Natin
+Bhatija,Beta,Pota
+Bhatiji,Beta,Poti
+Chachera Bhai,Beta,Bhatija
+Fufera Bhai,Beta,Bhatija
+Chacheri Behan,Beta,Bhatiji
+Fuferi Behan,Beta,Bhatiji
+Mamera Bhai,Beta,Bhatija
+Mosera Bhai,Beta,Bhatija
+Mameri Behan,Beta,Bhatiji
+Moseri Behan,Beta,Bhatiji
+Saas,Beta,Samdhan
+Sasur,Beta,Samadhi
+Akkad Saas,Beta,Bhatiji
+Saali,Beta,Bhatiji
+Saala,Beta,Bhatija
+Saadu Bhai,Beta,Bhatija
+Bhabhi,Beta,Bahu
+Bhabhi(Bahu),Beta,Bahu
+Jijaji,Beta,Damad
+Samadhi,Beta,Bhatija
+Samdhan,Beta,Bahu
+Bahu,Beta,Bahu
+Damad,Beta,Damad
+Dada,Beti,Chacha
+Dadi,Beti,Chachi
+Nana,Beti,Chacha
+Nani,Beti,Chachi
+Taau,Beti,Bhai
+Chacha,Beti,Bhai
+Taai,Beti,Bhabhi
+Chachi,Beti,Bhabhi
+Bua,Beti,Behan
+Fufa,Beti,Jijaji
+Mama,Beti,Saala
+Mami,Beti,Behan
+Mausi,Beti,Saali
+Mausa,Beti,Bhai
+Nati,Beti,Nati
+Natin,Beti,Natin
+Pota,Beti,Pota
+Poti,Beti,Poti
+Bhanja,Beti,Nati
+Bhanji,Beti,Natin
+Bhatija,Beti,Pota
+Bhatiji,Beti,Poti
+Chachera Bhai,Beti,Bhatija
+Fufera Bhai,Beti,Bhatija
+Chacheri Behan,Beti,Bhatiji
+Fuferi Behan,Beti,Bhatiji
+Mamera Bhai,Beti,Bhanja
+Mosera Bhai,Beti,Bhatija
+Mameri Behan,Beti,Bhanji
+Moseri Behan,Beti,Bhatiji
+Saas,Beti,Samdhan
+Sasur,Beti,Samdhi
+Jeth,Beti,Bhatija
+Devar,Beti,Bhatija
+Jethani,Beti,Bhanji
+Devrani,Beti,Bhanji
+Nand,Beti,Bhaji
+Nandoi,Beti,Damad
+Saadu Bhai,Beti,Bhatija
+Bhabhi,Beti,Bhatiji
+Bhabhi(Bahu),Beti,Bhatiji
+Jijaji,Beti,Damad
+Samadhi,Beti,Bhatija
+Samdhan,Beti,Bahu
+Bahu,Beti,Bahu
+Damad,Beti,Damad
+Dada,Patni,Sasur
+Dadi,Patni,Saas
+Nana,Patni,Sasur
+Nani,Patni,Saas
+Taau,Patni,Sasur
+Chacha,Patni,Sasur
+Taai,Patni,Saas
+Chachi,Patni,Saas
+Bua,Patni,Saas
+Fufa,Patni,Sasur
+Mama,Patni,Sasur
+Mami,Patni,Saas
+Mausi,Patni,Saas
+Mausa,Patni,Sasur
+Nati,Patni,Nati
+Natin,Patni,Natin
+Pota,Patni,Pota
+Poti,Patni,Poti
+Bhanja,Patni,Bhanja
+Bhanji,Patni,Bhanji
+Bhatija,Patni,Bhatija
+Bhatiji,Patni,Bhatiji
+Chachera Bhai,Patni,Saala
+Fufera Bhai,Patni,Saala
+Chacheri Behan,Patni,Saala
+Fuferi Behan,Patni,Saali
+Mamera Bhai,Patni,Saala
+Mosera Bhai,Patni,Saala
+Mameri Behan,Patni,Saali
+Moseri Behan,Patni,Saali
+Bhabhi,Patni,Behan
+Bhabhi(Bahu),Patni,Behan
+Jijaji,Patni,Saadu Bhai
+Samadhi,Patni,Samadhi
+Samdhan,Patni,Samdhan
+Bahu,Patni,Bahu
+Damad,Patni,Damad
+Dada,Pati,Sasur
+Dadi,Pati,Saas
+Nana,Pati,Sasur
+Nani,Pati,Saas
+Taau,Pati,Sasur
+Chacha,Pati,Sasur
+Taai,Pati,Saas
+Chachi,Pati,Saas
+Bua,Pati,Saas
+Fufa,Pati,Sasur
+Mama,Pati,Sasur
+Mami,Pati,Saas
+Mausi,Pati,Saas
+Mausa,Pati,Sasur
+Nati,Pati,Nati
+Natin,Pati,Natin
+Pota,Pati,Pota
+Poti,Pati,Poti
+Bhanja,Pati,Bhanja
+Bhanji,Pati,Bhanji
+Bhatija,Pati,Bhatija
+Bhatiji,Pati,Bhatiji
+Chachera Bhai,Pati,Devar
+Fufera Bhai,Pati,Devar
+Chacheri Behan,Pati,Nand
+Fuferi Behan,Pati,Nand
+Mamera Bhai,Pati,Devar
+Mosera Bhai,Pati,Devar
+Mameri Behan,Pati,Nand
+Moseri Behan,Pati,Nand
+Saadu Bhai,Pati,Jijaji
+Bhabhi,Pati,Bhabhi
+Bhabhi(Bahu),Pati,Bhabhi
+Jijaji,Pati,Bhai
+Samadhi,Pati,Samadhi
+Samdhan,Pati,Samdhan
+Bahu,Pati,Bahu
+Damad,Pati,Damad
+Maan,Maan,Nani
+Pita,Maan,Nana
+Behan,Maan,Mausi
+Bhai,Maan,Mama
+Maan,Pita,Dadi
+Pita,Pita,Dada
+Behan,Pita,Bua
+Bhai,Pita,Chacha
+Pati,Behan,Jijaji
+Beta,Behan,Bhanja
+Beti,Behan,Bhanji
+Patni,Bhai,Bhabhi
+Beta,Bhai,Bhatija
+Beti,Bhai,Bhatiji
+Maan,Pati,Saas
+Pita,Pati,Sasur
+Behan,Pati,Nand
+Bhai,Pati,Devar
+Maan,Patni,Saas
+Pita,Patni,Sasur
+Behan,Patni,Saali
+Bhai,Patni,Saala
+Patni,Beta,Bahu
+Beta,Beta,Pota
+Beti,Beta,Poti
+Pati,Beti,Damad
+Beta,Beti,Nati
+Beti,Beti,Natin
+Nati,Maan,Bhanja
+Natin,Maan,Bhanji
+Pota,Maan,Bhatija
+Poti,Maan,Bhatiji

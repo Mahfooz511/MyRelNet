@@ -1,0 +1,56 @@
+
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+}
+
+#cy {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 230px;
+  top: 120;
+  background-color: lightblue;
+}
+
+#top {
+  top: 0;
+  color: green;
+  text-align: center;
+  background-color: pink;
+}
+
+h2 {
+  font: 30px helvetica neue, helvetica, arial, sans-serif;
+}
+
+#contentwrapper{
+width: 100%;
+}
+
+#contentcolumn{
+margin-left: 430px; /*Set left margin to (leftColumnWidth + RightColumnWidth)*/
+}
+
+#leftcolumn{
+float: left;
+width: 230px; /*Width of left column in pixels*/
+background: lightpink;
+}
+
+
+#footer{
+clear: both;
+width: 100%;
+background: black;
+color: #FFF;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+
